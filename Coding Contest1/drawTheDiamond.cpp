@@ -63,3 +63,10 @@ void printTheDiamond(int r, int c, int s)
     }
     
 }
+int main()
+{
+    
+
+
+    return 0;
+}
